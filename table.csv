@@ -1,0 +1,7 @@
+Fitur,Fungsi
+Project scanner,"Membaca folder project lokal dan mendeteksi file .xmf, .xsf, .xaf, .xrf, PNG, JPG"
+Asset inventory,"Menampilkan daftar file, ukuran, tipe, dan tanggal modifikasi"
+Duplicate finder,Mencari texture atau file yang sama agar project lebih ringan
+Missing reference checker,Mengecek apakah file yang direferensikan di XML benar-benar ada
+ZIP exporter,Membuat arsip backup dari project milik sendiri
+Report generator,Membuat laporan aset untuk dokumentasi pribadi

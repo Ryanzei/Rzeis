@@ -1,0 +1,18 @@
+[
+  {
+    "name": "body.xmf",
+    "path": "meshes/body.xmf",
+    "type": "Mesh",
+    "extension": ".xmf",
+    "size_bytes": 58231,
+    "modified_at": "2026-07-20T10:15:22"
+  },
+  {
+    "name": "texture.png",
+    "path": "textures/texture.png",
+    "type": "Texture",
+    "extension": ".png",
+    "size_bytes": 142903,
+    "modified_at": "2026-07-20T10:18:44"
+  }
+]
